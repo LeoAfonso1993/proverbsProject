@@ -1,5 +1,5 @@
 function provPt(){
-     fetch("https://www.abibliadigital.com.br/api/verses/kjv/pv/1")
+     fetch("https://www.abibliadigital.com.br/api/verses/nvi/pv/1")
      .then((response) => response.json())
      .then((obj) => console.log(obj))
 }
@@ -16,3 +16,7 @@ function ramdonSalm() {
 .then((response) => response.json())
 .then((obj) => console.log(obj))
 }
+
+provPt()
+
+provEn()
