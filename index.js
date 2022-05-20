@@ -1,5 +1,5 @@
 
-const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik1vbiBNYXkgMDkgMjAyMiAxNTozNDowNSBHTVQrMDAwMC5kZXZwcm8ubGVvQGdtYWlsLmNvbSIsImlhdCI6MTY1MjExMDQ0NX0.d6VZ2uDcKzO3xlisNnyn9DgRd6bwrA42kBb4UBW16qc"
+const token = ""
 const submitButton = document.getElementById("read")
 const date = document.getElementById("date")
 const textArea = document.getElementById("txt")
