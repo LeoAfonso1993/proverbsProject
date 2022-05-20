@@ -21,7 +21,7 @@ https://www.abibliadigital.com.br/api/verses/kjv/pv/${n}
 
 #### api_key
 
-API requires a personal token token to process more than 20 requests in a short amount of time, in case you don't have one an error will pop up and you may need wait a few minutes before trying again.
+API requires a personal token to process more than 20 requests in a short amount of time, in case you don't have one an error will pop up and you may need wait a few minutes before trying again.
 
 -to request your personal token join their discord 
 https://www.abibliadigital.com.br/en and follow their instructions on Postman.
